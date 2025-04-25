@@ -1,5 +1,5 @@
 # AeroPCI
- This is an Excel VBA tool for complete calculation of Airfield PCI from distress survey data. 
+ This is an Excel VBA tool for complete calculation of Airfield PCI as per ASTM D 5340-98 using distress survey data. No installation is required — just Excel with macros enabled.
 
 Getting Started
 
@@ -45,4 +45,11 @@ These represent Runway, Taxiway, and Apron sections respectively.
 Simply click on the Run Calculation button.
 The tool will automatically calculate PCI values for each pavement branch and also generate the overall PCI.
 
-No installation is required — just Excel with macros enabled.
+## Citation
+
+Please consider citing the following work if you use AeroPCI in research or reporting:
+
+> Kalika, S., Marsani, A. & Adhikari, G.D. (2021). Pavement condition index for airports: A case study of Simara Airport. Proceedings of the 10th IOE Graduate Conference (pp. 279-287).
+
+
+

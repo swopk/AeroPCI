@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this tool in your work, please cite the following publication."
+authors:
+  - family-names: Kalika
+    given-names: S.
+  - family-names: Marsani
+    given-names: A.
+  - family-names: Adhikari
+    given-names: G.D.
+title: "AeroPCI"
+version: "1.1"
+date-released: 2025-04-22
+repository-code: https://github.com/swopk/AeroPCI
+url: https://github.com/swopk/AeroPCI/tree/main
+preferred-citation:
+  type: proceedings-article
+  title: "Pavement condition index for airports: A case study of Simara Airport"
+  authors:
+    - family-names: Kalika
+      given-names: S.
+    - family-names: Marsani
+      given-names: A.
+    - family-names: Adhikari
+      given-names: G.D.
+  collection-title: "Proceedings of the 10th IOE Graduate Conference"
+  year: 2021
+  pages: 279-287
