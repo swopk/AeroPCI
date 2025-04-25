@@ -1,7 +1,7 @@
 # AeroPCI
  This is an Excel VBA tool for complete calculation of Airfield PCI as per ASTM D 5340-98 using distress survey data. No installation is required — just Excel with macros enabled.
 
-Getting Started
+## Getting Started
 
 Download the file AeroPCI_v1.0.xlsm
 
@@ -25,7 +25,7 @@ This allows the program to run smoothly every time.
 
 
 
-How to Use the Tool
+## How to Use the Tool
 
 The workbook contains three sheets:
 
