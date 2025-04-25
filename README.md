@@ -36,9 +36,9 @@ It is optional and does not need to be filled for the tool to work.
 
 "Entry"
 
-Enter your field data here.
-Use pavement branch codes like RWY, TXY, and APR, followed by the sample unit number (e.g., RWY 01, TXY 02).
-These represent Runway, Taxiway, and Apron sections respectively.
+Enter your field data here. Data should be entered in Columns A through J (also shaded to show that data can be entered there) as per the column headings, other columns K through N are calculated by formula and are not to be changed.
+Use pavement branch codes: RWY, TXY, and APR, followed by the sample unit number (e.g., RWY 01, TXY 02).
+These represent Runway, Taxiway, and Apron sections respectively. 
 
 "Results"
 
